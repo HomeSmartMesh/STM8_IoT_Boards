@@ -26,3 +26,6 @@ The Board is grouping two modules :
  - STM8 Dev Board based on the STM8S103F3
  - nRF24L01+ module based on the reference design
  - It also has a pullup resistor and 3 pins where to plug an DS18B20 temperature sensor
+
+For any questions, or if you have answers for the pending questions, please post on the Forum
+http://www.homesmartmesh.com/forum/
