@@ -1,6 +1,17 @@
 # STM8_IoT_Board
 The PCB design of the STM8 with the nRF24L01+ Board
 
+_______________________________________________________________________________________
+----------------------------------License----------------------------------------------
+- It is possible to use these designs for commercial purpose
+- It is possible to modify the designs
+- It is not necessary to mention the original author of these designs
+- It is possible to add your own name or company on the design
+- It is not possible to prevent anyone else from having the rights mentionned above
+---------------------------------------------------------------------------------------
+------------------------------end-of-License-Text--------------------------------------
+_______________________________________________________________________________________
+
 The IoT node is an STM8 based low cost development platform.
 It is an initiative for an open product = open hardware + open source project.
 find all the details in this link :
