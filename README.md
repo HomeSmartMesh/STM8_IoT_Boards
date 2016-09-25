@@ -1,16 +1,16 @@
 # STM8_IoT_Boards
 This repository provides PCBs based on the STM8 which is the cheapest microcontroller on the market (Low and production volumes) with the cheapest debug and development environment.
-_______________________________________________________________________________________
-# License
-- It is possible to use these designs for commercial purpose
-- It is possible to modify the designs
-- It is not necessary to mention the original author of these designs
-- It is possible to add your own name or company on the design
-- It is not possible to prevent anyone else from having the rights mentionned above
-_______________________________________________________________________________________
 
-# IoT Node (Connected to Power)
-- PCB design of the STM8 with the nRF24L01+
+## IoT Node (RF but Connected to Power)
+PCB design using the STM8S103F bread board with the nRF24L01+ module. Provides connectors for I²C, UART and One wire.
+[STM8S fixed Node wiki page](http://technolab.ddns.net/display/SSN/STM8S+Fixed+Node)
+
+## Smart IoT Node (Wireless and Cell Coin Powered)
+[STM8L Mobile Node wiki page](http://technolab.ddns.net/display/SSN/STM8L+Mobile+Node)
+
+# Links to Firmware Sources
+ - [Hello World Examples](https://github.com/wassfila/STM8_IoT_HelloWorld)
+ - [Complete Usecase Examples e.g. Sender + Receiver](https://github.com/wassfila/STM8_IoT_Base)
 
 # Blabla
 The IoT node is an STM8 based low cost development platform.
@@ -39,5 +39,9 @@ The Board is grouping two modules :
  - nRF24L01+ module based on the reference design
  - It also has a pullup resistor and 3 pins where to plug an DS18B20 temperature sensor
 
-For any questions, or if you have answers for the pending questions, please post on the Forum
-http://www.homesmartmesh.com/forum/
+# License
+- It is possible to use these designs for commercial purpose
+- It is possible to modify the designs
+- It is not necessary to mention the original author of these designs
+- It is possible to add your own name or company on the design
+- It is not possible to prevent anyone else from having the rights mentionned above
