@@ -8,6 +8,7 @@ ________________________________________________________________________________
 - It is possible to add your own name or company on the design
 - It is not possible to prevent anyone else from having the rights mentionned above
 _______________________________________________________________________________________
+
 # IoT Node (Connected to Power)
 - PCB design of the STM8 with the nRF24L01+
 
