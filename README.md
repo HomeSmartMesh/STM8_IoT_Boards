@@ -34,7 +34,7 @@ This board uses the 16 bit x7 channels PWM (from different timers) used to gener
  - [Hello World Examples](https://github.com/wassfila/STM8_IoT_HelloWorld)
  - [Complete Usecase Examples e.g. Sender + Receiver](https://github.com/wassfila/STM8_IoT_Base)
 
-# Blabla
+# More Info
 The IoT node is an STM8 based low cost development platform.
 It is an initiative for an open product = open hardware + open source project.
 find all the details in this link :
