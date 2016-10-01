@@ -3,30 +3,26 @@ This repository provides PCBs based on the STM8 which is the cheapest microcontr
 
 ## IoT Node (RF but Connected to Power)
 PCB design using the STM8S103F bread board with the nRF24L01+ module. Provides connectors for I²C, UART and One wire.
-
-[STM8S fixed Node wiki page](http://technolab.ddns.net/display/SSN/STM8S+Fixed+Node)
+ - [STM8S fixed Node wiki page](http://technolab.ddns.net/display/SSN/STM8S+Fixed+Node)
 
 <img src="https://raw.githubusercontent.com/wassfila/STM8_IoT_Boards/master/IoT_Node_Fixed_v1/IoT_Node.png" height="100">
 
 ## Smart IoT Node (Wireless and Cell Coin Powered)
 This Board includes an STM8L151F3P6 (Low Power) the nRF24L01+, sensors modules : BMP280 (pressure, humidity, temperature), a MAX44009 (Ambient Light) and MRMS211H (Magnetic switches).
-
-[STM8L Mobile Node wiki page](http://technolab.ddns.net/display/SSN/STM8L+Mobile+Node)
+ - [STM8L Mobile Node wiki page](http://technolab.ddns.net/display/SSN/STM8L+Mobile+Node)
 
 <img src="https://raw.githubusercontent.com/wassfila/STM8_IoT_Boards/master/IoT_Node_Mobile_v2/IoT_Node_Mobile_v2.JPG" height="200">
 
 ## IO_Expander
 serial port commands issued in an ULN2804 general purpose up to 48V or 500mA per output
-
-[Github Repository for nodejs websocket server with javascript gui](https://github.com/wassfila/smartio)
-[IO Expander wiki page](http://technolab.ddns.net/display/SSN/Smart+IO+Expander)
+ - [Github Repository for nodejs websocket server with javascript gui](https://github.com/wassfila/smartio)
+ - [IO Expander wiki page](http://technolab.ddns.net/display/SSN/Smart+IO+Expander)
 
 <img src="https://raw.githubusercontent.com/wassfila/STM8_IoT_Boards/master/IO_Expander/IO_Expander.png" height="200">
 
 ## Servomotor Controller
 This board uses the 16 bit x7 channels PWM (from different timers) used to generate pulses for servomotors.
-
-[Available PS4 wireless on Raspberry Pi 3 application source codes](https://github.com/wassfila/joystick_servo)
+ - [Available PS4 wireless on Raspberry Pi 3 application source codes](https://github.com/wassfila/joystick_servo)
 
 <img src="https://raw.githubusercontent.com/wassfila/STM8_IoT_Boards/master/ServoMotors_Controller/ServoController.JPG" height="200">
 
