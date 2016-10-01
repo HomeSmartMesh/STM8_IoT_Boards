@@ -18,6 +18,7 @@ This Board includes an STM8L151F3P6 (Low Power) the nRF24L01+, sensors modules :
 ## IO_Expander
 serial port commands issued in an ULN2804 general purpose up to 48V or 500mA per output
 
+[Github Repository for nodejs websocket server with javascript gui](https://github.com/wassfila/smartio)
 [IO Expander wiki page](http://technolab.ddns.net/display/SSN/Smart+IO+Expander)
 
 <img src="https://raw.githubusercontent.com/wassfila/STM8_IoT_Boards/master/IO_Expander/IO_Expander.png" height="200">
