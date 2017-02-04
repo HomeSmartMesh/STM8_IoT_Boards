@@ -1,4 +1,6 @@
-# See these boards in action [IoT_Frameworks (Sensor/Server/Client)](https://github.com/wassfila/IoT_Frameworks)
+# See these boards in action [IoT_Frameworks](https://github.com/wassfila/IoT_Frameworks)
+<img src="https://github.com/wassfila/media/blob/master/IoT_Infrastructure.png" height=400>
+
 
 # STM8_IoT_Boards
 This repository provides PCBs based on the STM8 which is the cheapest microcontroller on the market (Low and production volumes) with the cheapest debug and development environment.
