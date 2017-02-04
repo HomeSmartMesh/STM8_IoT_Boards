@@ -1,4 +1,4 @@
-# See these boards in action [IoT_Frameworks](https://github.com/wassfila/IoT_Frameworks)
+# See these boards in action in the repo [IoT_Frameworks](https://github.com/wassfila/IoT_Frameworks)
 <img src="https://github.com/wassfila/media/blob/master/IoT_Infrastructure.png" height=400>
 
 
